@@ -13,7 +13,8 @@
 [Original Figma design](https://www.figma.com/file/yGjaaaBOw7qpHXVgFDpJHY/Sample-1?node-id=0%3A1)
 
 This is how it looks like:
-![Design](design/Figma design sample.jpg)
+
+![Design](https://github.com/vborbely/figma-to-flutter/design/Figma design sample.jpg)
 
 ### Table of Contents
 
