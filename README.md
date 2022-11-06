@@ -14,7 +14,7 @@
 
 This is how it looks like:
 
-![Design](https://github.com/vborbely/figma-to-flutter/design/Figma design sample.jpg)
+![Design](https://github.com/vborbely/figma-to-flutter/blob/master/design/Figma%20design%20sample.jpg)
 
 ### Table of Contents
 
